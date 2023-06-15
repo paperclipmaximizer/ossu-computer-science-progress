@@ -15,8 +15,8 @@
 
 # Contents
 
-- [Summary](summary.md)
-- [Community](community.md)
+- [Summary](SUMMARY.md)
+- [Community](COMMUNITY.md)
 - [Curriculum](#curriculum)
 - [Code of conduct](#code-of-conduct)
 - [Team](#team)
