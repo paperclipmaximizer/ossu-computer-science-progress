@@ -13,6 +13,14 @@
   </a>
 </p>
 
+## How to show your progress
+
+1. At the top of this page, click "Use this template"
+2. Commit your work or proof of completion to public repos and create links in the "Repository" field under a given subject heading.
+
+The intention of this template is to provide students a way to track their progress through contributing to personal repositories. It may be a convenient way to show their progress through a public page for friends, family, employers, etc.
+You can change the status of your personal repository to *public* or *private*.
+
 # Contents
 
 - [Summary](SUMMARY.md)
@@ -430,14 +438,6 @@ What is next for you? The possibilities are boundless and overlapping:
 
 # Code of conduct
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
-
-## How to show your progress
-
-1. At the top of this page, click "Use this template"
-2. Commit your work or proof of completion to public repos and create links in the "Repository" field under a given subject heading.
-
-The intention of this template is to provide students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc.
-You can change the status of your personal repository to be *public* or *private*.
 
 # Team
 
