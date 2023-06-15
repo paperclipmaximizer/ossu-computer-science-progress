@@ -433,26 +433,11 @@ What is next for you? The possibilities are boundless and overlapping:
 
 ## How to show your progress
 
-1. Create an account in [Trello](https://trello.com/).
-1. Copy [this](https://trello.com/b/IScNSzsI/ossu-compsci) board to your personal account.
-See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
+1. At the top of this page, click "Use this template"
+2. Commit your work or proof of completion to public repos and create links in the "Repository" field under a given subject heading.
 
-Now that you have a copy of our official board, you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
-
-We also have **labels** to help you have more control through the process.
-The meaning of each of these labels is:
-
-- `Main Curriculum`: cards with that label represent courses that are listed in our curriculum.
-- `Extra Resources`: cards with that label represent courses that were added by the student.
-- `Doing`: cards with that label represent courses the student is currently doing.
-- `Done`: cards with that label represent courses finished by the student.
-Those cards should also have the link for at least one project/article built with the knowledge acquired in such a course.
-- `Section`: cards with that label represent the section that we have in our curriculum.
-Those cards with the `Section` label are only to help the organization of the Done column.
-You should put the *Course's cards* below its respective *Section's card*.
-
-The intention of this board is to provide our students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc.
-You can change the status of your board to be *public* or *private*.
+The intention of this template is to provide students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc.
+You can change the status of your personal repository to be *public* or *private*.
 
 # Team
 
