@@ -1,6 +1,6 @@
 ---
 name: Course completion template
-about: 
+about: I completed ...
 title: 'Completed: '
 
 ---
