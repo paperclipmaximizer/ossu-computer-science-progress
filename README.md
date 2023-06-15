@@ -16,7 +16,7 @@
 ## How to show your progress
 
 1. At the top of this page, click "Use this template"
-2. Commit your work or proof of completion to public repos and create links in the "Repository" field under a given subject heading.
+2. Commit your work or proof of completion to public repos and create links in the "Repository" field under the appropriate subject heading below.
 
 The intention of this template is to provide students a way to track their progress through contributing to personal repositories. It may be a convenient way to show their progress through a public page for friends, family, employers, etc.
 You can change the status of your personal repository to *public* or *private*.
@@ -73,9 +73,9 @@ If you've never written a for-loop, or don't know what a string is in programmin
 `simple programs`
 `simple data structures`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z)
+Course | Completion Date | Repository 
+:-- | :--: | :--: 
+[Python for Everybody](https://www.py4e.com/lessons) | - | - 
 
 ### Introduction to Computer Science
 
